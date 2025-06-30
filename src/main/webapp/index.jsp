@@ -85,5 +85,6 @@
     </div>
 
     <script src="scripts.js"></script> <!-- Bug: Wrong script file name (should be script.js) -->
+    <script src="scripts.js"></script> <!-- Bug: Wrong script file name (should be script.js) -->
 </body>
 </html>
